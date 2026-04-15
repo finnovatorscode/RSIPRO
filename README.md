@@ -36,7 +36,6 @@
   <p>When your deletion request is processed, we delete your account and associated cloud alert data, subject to any limited retention required for legal, fraud-prevention, security, or backup purposes.</p>
 
   <h2>Contact</h2>
-  <p>Developer: YOUR_NAME_OR_BUSINESS</p>
-  <p>Email: <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a></p>
+  <p>Email: <a href="mailto:founderofinnovators@gmail.com"></a></p>
 </body>
 </html>
