@@ -35,7 +35,6 @@
   <h2>What is deleted</h2>
   <p>When your deletion request is processed, we delete your account and associated cloud alert data, subject to any limited retention required for legal, fraud-prevention, security, or backup purposes.</p>
 
-  <h2>Contact</h2>
-  <p>Email: <a href="mailto:founderofinnovators@gmail.com"></a></p>
+
 </body>
 </html>
