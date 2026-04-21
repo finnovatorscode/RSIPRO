@@ -30,7 +30,7 @@
     <li>Select <strong>Delete Account</strong></li>
   </ol>
 
-  <p>If you cannot access the app, email us at <a href="mailto:YOUR_EMAIL@example.com">founderofinnovators@gmail.com</a> with the subject line <strong>RSI PRO Account Deletion Request</strong>.</p>
+  <p>If you cannot access the app, email <a href="mailto:founderofinnovators@gmail.com">founderofinnovators@gmail.com</a> from your email  with the subject line <strong>RSI PRO Account Deletion Request</strong>.</p>
 
   <h2>What is deleted</h2>
   <p>When your deletion request is processed, we delete your account and associated cloud alert data, subject to any limited retention required for legal, fraud-prevention, security, or backup purposes.</p>
